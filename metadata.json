@@ -1,0 +1,5 @@
+{
+  "name": "AI Statement Intelligence Engine",
+  "description": "An AI-powered financial analysis platform that converts raw bank statements into structured, categorized, insight-driven financial dashboards.",
+  "requestFramePermissions": []
+}
